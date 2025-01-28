@@ -2,7 +2,7 @@
 export default function Main() {
     return (
         <div className="flex flex-col gap-6 justify-center items-center">
-            <div className=" flex flex-col justify-center items-center font-extrabold gap-2">
+            <div className=" flex flex-col justify-center items-center font-extrabold gap-4 py-8">
                 <div className="text-3xl">12 startups in 12 months</div>
                 <div className="text-xl font-bold text-neutral-500">Follow our latest startups</div>
             </div>
